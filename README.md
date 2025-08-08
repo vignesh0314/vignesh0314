@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data+Visualization+Enthusiast;AI+%26+ML+Learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data Analyst;AI+%26+ML+Learner" alt="Typing animation" />
 </p>
 
 ---
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel%20BI-F2C811?style=for-the-badge&logo=microsoftexcel&logoColor=green" />
 </p>
 
 ---
