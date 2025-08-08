@@ -29,3 +29,6 @@
 ---
 
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh0314&show_icons=true&theme=tokyonight)
+
+https://github-readme-stats.vercel.app/api?username=vignesh0314&show_icons=true&theme=tokyonight
+
