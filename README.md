@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Vignesh 👋
 
-<!--
-**vignesh0314/vignesh0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** at Kalasalingam Academy of Research and Education  
+💻 Passionate about **Full-Stack Development**, **Data Visualization**, and **AI-powered solutions**  
+🚀 Always exploring new technologies & building impactful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, Flask, Django, REST APIs  
+- **Databases:** MySQL, MongoDB  
+- **Data Tools:** Power BI, Excel
+
+---
+
+## 📌 Featured Projects
+- **[Campus Food Ordering System](https://github.com/vignesh0314/campus-food-ordering-system)** – Full-stack app with Flask & MySQL  
+- **[Money Management App](https://github.com/vignesh0314/money-management-app)** – React Native + Django REST APIs  
+- **[Course Registration System](https://github.com/vignesh0314/course-registration-system)** – MERN stack with email/SMS notifications
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/vignesh-m-63b675268)  
+- [Resume](#) *(Upload to GitHub or Google Drive link)*  
+- 📧 **Email:** vigneshm030105@gmail.com  
+
+---
+
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh0314&show_icons=true&theme=tokyonight)
