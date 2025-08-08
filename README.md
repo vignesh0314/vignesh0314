@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Vignesh -->
 
 <h1 align="center">
-  Hi there, I'm <span style="color:#00BFFF;">Vignesh</span> 👋
+  Hi there, I'm <span style="color:#00BFFF;">VIGNESH M</span> 👋
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me  
-💻 **Full-stack developer** passionate about building impactful projects  
+💻 **Data Analyst & Full-stack developer** passionate about building impactful projects  
 📊 Love creating **data-driven** solutions with clean UI & animations  
 🎯 Currently working on **Campus Food Ordering System** & **Money Management App**  
 📚 Always learning **React.js, Django, and AI tools**  
