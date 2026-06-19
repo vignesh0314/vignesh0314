@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshm030105&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
   <a href="mailto:vigneshm030105@gmail.com"><img src="https://img.shields.io/badge/Gmail-vigneshm030105-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vignesh-m"><img src="https://img.shields.io/badge/[LinkedIn-Vignesh%20M-0077B5?](https://www.linkedin.com/in/vignesh-m-63b675268/)style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vignesh-m"><img src="https://img.shields.io/badge/(https://www.linkedin.com/in/vignesh-m-63b675268/)style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
