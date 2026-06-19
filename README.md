@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshm030105&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
-  <a href="mailto:vigneshm030105@gmail.com"><img src="https://img.shields.io/badge/Gmail-vigneshm030105-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vignesh-m"><img src="https://img.shields.io/badge/(https://www.linkedin.com/in/vignesh-m-63b675268/)style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vignesh0314&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
+  <a href="mailto:vignesh0314@gmail.com"><img src="https://img.shields.io/badge/Gmail-vignesh0314-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vignesh-m-63b675268/"><img src="https://img.shields.io/badge/LinkedIn-Vignesh%20M-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vignesh-m-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-vignesh--m-FF5722?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
 ---
@@ -26,7 +27,7 @@ class VigneshM:
         self.name           = "Vignesh M"
         self.location       = "Tamil Nadu, India 🇮🇳"
         self.degree         = "B.Tech CSE (Data Science) @ KARE, 2026"
-        self.email          = "vigneshm030105@gmail.com"
+        self.email          = "vignesh0314@gmail.com"
 
         self.stack = [
             "Python", "Java", "JavaScript",
@@ -114,11 +115,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vigneshm030105">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshm030105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/vignesh0314">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh0314&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/vigneshm030105">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshm030105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/vignesh0314">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh0314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -127,7 +128,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshm030105&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vignesh0314&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -135,7 +136,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshm030105&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh0314&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -143,7 +144,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshm030105&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vignesh0314&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
 </div>
 
 ---
